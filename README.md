@@ -21,3 +21,11 @@ I'm an Electronics and Communication Engineering student interested in VLSI, Dig
 - STM32
 - Digital Electronics
 - Git & GitHub
+
+## Currently Learning
+
+- Verilog HDL
+- RTL Design
+- FPGA
+- VLSI Design Flow
+- Computer Architecture
