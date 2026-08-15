@@ -12,3 +12,12 @@ I'm an Electronics and Communication Engineering student interested in VLSI, Dig
 - Embedded Systems
 - Microcontrollers
 - FPGA
+
+## Skills
+
+- C
+- Verilog
+- Arduino
+- STM32
+- Digital Electronics
+- Git & GitHub
