@@ -37,3 +37,7 @@ Arduino-based automatic writing machine using stepper motors, CNC Shield, servo 
 
 ### ECE & Embedded Systems Projects
 Developing projects involving Arduino, microcontrollers, digital electronics, and embedded systems.
+
+## Education
+
+- B.Tech — Electronics & Communication Engineering
